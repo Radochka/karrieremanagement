@@ -40,6 +40,8 @@ Full Stack Development
 
 - BEM digital - Webanwendung für die Arbeitsfähigkeitscoaching. Die Projektvision: Der Coach und Coachee (BEM-Berechtigte/r) haben digitalen Zugriff auf die Gesamtdokumentation des Arbeitsfähigkeitscoachings und können auf diese webbasiert zugreifen, befüllen und speichern. (Technologie: nodeJS, Express, MongoDB, Angular)
 
+- Wunschliste - Semesteraufgabe: Diese Webanwendung ist für Eltern gedacht, die Wunschlisten ihrer Kinder an einem Platz speichern und immer wieder abrufen möchten. (Technologie: nodeJS, Express, MongoDB, Materialize css, Angular)
+
 - Statuspage - Webanwendung, die Verfügbeikeit der Microservices prüft. (Technologie: nodeJs, Express, MongoDB, VueJS, Docker)
 
 - Formio - Aufbau eines Forms-Editors (Technologie: nodeJS, nestJS, MariaDB, VueJS, Docker)
