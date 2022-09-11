@@ -8,7 +8,7 @@ ehrlich gesagt, vor 20 Jahren war ich vom Informatikstudium nicht so begeistert 
 Vor langer Zeit, als die Technologien noch nicht so weit waren, nach meinem Schulabschluss in Russland fang ich an, Informatik zu studieren. Aber ich hatte keine große Interesse daran, obwohl ich es gut verstand. Also ich brich das Studium ab und wanderte mit meine Familie nach Deutschland aus. Dann kam die Ablehnung meines Abiturs, Enttäuschung, neue Zeile, neue Berufsausbildung, interessante Arbeit, zwei Mutterschaftsurlaube, Selbstständigkeit und mein Studium in der HTW Berlin im Frauenstudiengang "Wirtschaft und Informatik", was mich stärkte und weiterentwickelte.
 
 ## Was ich jetzt habe:
-Ich habe 11-jährige Berufserfahrung in der Verwaltung, Management, Personal- und Firmenführung sowie Bachelor of Science (B.Sc.) Abschluss und 2-jährige Erfahrung in der Webentwicklung.
+Ich habe 11-jährige Berufserfahrung in der Verwaltung, Management, Personal- und Firmenführung sowie Bachelor of Science Abschluss und 2-jährige Erfahrung in der Webentwicklung.
 
 ## Was mich anreizt:
 Der Profil der NEXT Data Service AG und die Arbeitsbedingungen, ein fachübergreifendes Team, die Entwicklung der möglichen Lösungsideen für Kunden und deren Konzipierung und Umsetzung, das Kennenlernen der anspruchsvollen und innovativen Softwarearchitekturen, Big-Data und neuronalen Netzen, künstliche Intelligenz und Machine Learning sind atemberaubend für mich. Ich freue mich schon, dies alles zu lernen.
