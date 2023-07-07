@@ -18,7 +18,7 @@ Der Profil der NEXT Data Service AG und die Arbeitsbedingungen, ein fachübergre
 Seit vier Jahren bin ich in IT-Welt mit einer großen Leidenschaft für analytische Aufgaben. Ich habe in mehreren der folgenden Bereiche die Erfahrung gesammelt: 
 
 ```
-NodeJS, Express
+NodeJS, Express, NestJS
 Java, JavaScript, TypeScript
 Angular, VueJS
 Microservice
@@ -26,13 +26,12 @@ MongoDB
 Formio
 Git
 Docker
-Full Stack Development
 ```
 
 ## Meine Stärke
 - mutig: Es gibt keine größere Freude, als Grenzen zu überschreiten und neue Dinge und Ideen zu entdecken und zu nutzen
-- rational und praktisch: Mir macht Spaß, Ideen zu finden, die umsetzbar sind
-- originell: Durch die Kombination von Kühnheit und Praxisnähe experementiere ich gerne mit neuen Ideen und Lösungen
+- praktisch: Mir macht Spaß, Ideen zu finden, die umsetzbar sind
+- erfinderisch: Durch die Kombination von Courage und Praxisnähe experementiere ich gerne mit neuen Ideen und Lösungen
 - wahrnehmungsfähig: Ich habe die Fähigkeit, zu bemerken, wenn sich Dinge ändern und wenn sie sich ändern müssen!
 - direkt: Ich ziehe es vor, klar zu kommunizieren mit direkten und sachlichen Fragen und Antworten.
 
@@ -44,7 +43,7 @@ Full Stack Development
 
 - Statuspage - Webanwendung, die Verfügbeikeit der Microservices prüft. (Technologie: nodeJs, Express, MongoDB, VueJS, Docker)
 
-- Formio - Aufbau eines Forms-Editors (Technologie: nodeJS, nestJS, MariaDB, VueJS, Docker)
+- Formio - Mitarbeit bei der Aufbau eines Forms-Editors (Technologie: nestJS, MariaDB, VueJS, Docker)
 
 - Modellierung der OZG-Formulare
 
